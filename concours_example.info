@@ -1,0 +1,7 @@
+name = Concours Entity Example
+description = own concours entity.
+core = 7.x
+package = Example modules
+dependencies[] = field
+files[] = concours_example.test
+configure = admin/structure/concours_example/manage
